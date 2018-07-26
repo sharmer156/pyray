@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/ryu577/pyray.svg?branch=master)](https://travis-ci.org/ryu577/pyray)
 
+Pyray 是一个基于Python 的3D 渲染库。现在，POV ray 是一个很棒的程序，但我们为什么不能在Python 中开发一个同样功能的应用程序，用于2D，3D 和更高维度的对象和场景渲染呢？在这个项目中我将用Python 展示POV ray 程序所能做的一切，包括渲染复杂的3D 对象、场景、动画等
+
 # Introduction
 
 I'm creating this repository in January 2018 and it is crazy that the best open source option for rendering 3d scenes remains POV ray.
